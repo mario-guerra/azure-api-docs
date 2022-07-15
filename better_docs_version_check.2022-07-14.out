@@ -1,0 +1,73 @@
+Azure Quantum not using current file for azure-rest-api-specs/specification/quantum/resource-manager/Microsoft.Quantum/preview/2019-11-04-preview/quantum.json
+Application Gateway not using current file for azure-rest-api-specs/specification/network/resource-manager/Microsoft.Network/stable/2021-08-01/applicationGateway.json
+Application Insights not using current file for azure-rest-api-specs/specification/applicationinsights/resource-manager/microsoft.insights/stable/2015-05-01/components_API.json
+App Service not using current file for azure-rest-api-specs/specification/web/resource-manager/Microsoft.CertificateRegistration/stable/2015-08-01/AppServiceCertificateOrders.json
+Authorization not using current file for azure-rest-api-specs/specification/authorization/resource-manager/Microsoft.Authorization/preview/2021-07-01-preview/authorization-AccessReviewCalls.json
+Automation not using current file for azure-rest-api-specs/specification/automation/resource-manager/Microsoft.Automation/stable/2021-06-22/hybridRunbookWorkerGroup.json
+Azure Stack Admin not using current file for azure-rest-api-specs/specification/azsadmin/resource-manager/compute/Microsoft.Compute.Admin/preview/2018-02-09/Quotas.json
+Guest Configuration not using current file for azure-rest-api-specs/specification/guestconfiguration/resource-manager/Microsoft.GuestConfiguration/stable/2020-06-25/guestconfiguration.json
+Confluent not using current file for azure-rest-api-specs/specification/confluent/resource-manager/Microsoft.Confluent/stable/2020-03-01/confluent.json
+Cognitive Services - Computer Vision not using current file for azure-rest-api-specs/specification/cognitiveservices/data-plane/ComputerVision/stable/v3.1/ComputerVision.json
+Cognitive Services - AnomalyDetector not using current file for azure-rest-api-specs/specification/cognitiveservices/data-plane/AnomalyDetector/preview/v1.1-preview.1/AnomalyDetector.json
+Cognitive Services - Form Recognizer not using current files for specification/cognitiveservices/data-plane/FormRecognizer/[version]/FormRecognizer.json
+Cognitive Services - LUIS not using current files for specification/cognitiveservices/data-plane/LUIS/Authoring/[version]/LUIS-Authoring.json
+Cognitive Services - Text Analytics not using current files for specification/cognitiveservices/data-plane/TextAnalytics/[version]/TextAnalytics.json
+Cognitive Services - Personalizer not using current files for specification/cognitiveservices/data-plane/Personalizer/[version]/Personalizer.json
+Cognitive Services not using current file for azure-rest-api-specs/specification/cognitiveservices/resource-manager/Microsoft.CognitiveServices/stable/2021-10-01/cognitiveservices.json
+Container Registry not using current file for azure-rest-api-specs/specification/containerregistry/resource-manager/Microsoft.ContainerRegistry/stable/2019-05-01/containerregistry.json
+Cosmos DB Resource Provider not using current files for specification/cosmos-db/resource-manager/Microsoft.DocumentDB/[version]/cosmos-db.json
+Data Protection not using current file for azure-rest-api-specs/specification/dataprotection/resource-manager/Microsoft.DataProtection/stable/2021-01-01/dataprotection.json
+Data Migration not using current file for azure-rest-api-specs/specification/datamigration/resource-manager/Microsoft.DataMigration/preview/2022-01-30-preview/datamigration.json
+Data Box Edge/Data Box Gateway not using current file for azure-rest-api-specs/specification/databoxedge/resource-manager/Microsoft.DataBoxEdge/stable/2021-02-01/databoxedge.json
+Desktop Virtualization not using current file for azure-rest-api-specs/specification/desktopvirtualization/resource-manager/Microsoft.DesktopVirtualization/preview/2022-02-10-preview/desktopvirtualization.json
+Device Update not using current file for azure-rest-api-specs/specification/deviceupdate/resource-manager/Microsoft.DeviceUpdate/preview/2020-03-01-preview/deviceupdate.json
+DNS not using current file for azure-rest-api-specs/specification/dnsresolver/resource-manager/Microsoft.Network/preview/2020-04-01-preview/dnsresolver.json
+ExpressRoute not using current file for azure-rest-api-specs/specification/network/resource-manager/Microsoft.Network/stable/2021-08-01/expressRouteCircuit.json
+Firewall not using current file for azure-rest-api-specs/specification/network/resource-manager/Microsoft.Network/stable/2021-08-01/azureFirewall.json
+Resource Mover not using current files for specification/resourcemover/resource-manager/Microsoft.Migrate/[version]/resourcemovercollection.json
+Front Door Service not using current file for azure-rest-api-specs/specification/frontdoor/resource-manager/Microsoft.Network/stable/2019-05-01/frontdoor.json
+Healthcare Apis not using current file for azure-rest-api-specs/specification/healthcareapis/resource-manager/Microsoft.HealthcareApis/stable/2021-11-01/healthcare-apis.json
+Hybrid Compute not using current file for azure-rest-api-specs/specification/hybridcompute/resource-manager/Microsoft.HybridCompute/stable/2021-05-20/HybridCompute.json
+IoT Hub not using current file for azure-rest-api-specs/specification/iothub/resource-manager/Microsoft.Devices/stable/2018-04-01/iothub.json
+IoT Hub Device Provisioning Service not using current file for azure-rest-api-specs/specification/deviceprovisioningservices/resource-manager/Microsoft.Devices/stable/2018-01-22/iotdps.json
+Key Vault not using current file for azure-rest-api-specs/specification/keyvault/resource-manager/Microsoft.KeyVault/stable/2021-10-01/keyvault.json
+Load balancer not using current file for azure-rest-api-specs/specification/network/resource-manager/Microsoft.Network/stable/2021-08-01/loadBalancer.json
+Maps not using current file for azure-rest-api-specs/specification/maps/data-plane/Microsoft.Maps/Data/preview/1.0/data.json
+Maps Management not using current file for azure-rest-api-specs/specification/maps/resource-manager/Microsoft.Maps/preview/2020-02-01-preview/maps-management.json
+Azure Migrate not using current file for azure-rest-api-specs/specification/migrate/resource-manager/Microsoft.OffAzure/stable/2020-01-01/migrate.json
+Kubernetes Configuration not using current file for azure-rest-api-specs/specification/kubernetesconfiguration/resource-manager/Microsoft.KubernetesConfiguration/stable/2022-03-01/extensions.json
+Logic Apps not using current file for azure-rest-api-specs/specification/logic/resource-manager/Microsoft.Logic/stable/2016-06-01/logic.json
+ML Studio (classic) not using current file for azure-rest-api-specs/specification/machinelearning/resource-manager/Microsoft.MachineLearning/preview/2016-05-01-preview/webservices.json
+MariaDB not using current file for azure-rest-api-specs/specification/mariadb/resource-manager/Microsoft.DBforMariaDB/preview/2018-06-01-preview/mariadb.json
+Monitor not using current file for azure-rest-api-specs/specification/monitor/resource-manager/microsoft.insights/stable/2018-01-01/metricDefinitions_API.json
+Managed Grafana not using current file for azure-rest-api-specs/specification/dashboard/resource-manager/Microsoft.Dashboard/preview/2021-09-01-preview/grafana.json
+Marketplace Ordering not using current file for azure-rest-api-specs/specification/marketplaceordering/resource-manager/Microsoft.MarketplaceOrdering/stable/2015-06-01/Agreements.json
+Network Gateway not using current file for azure-rest-api-specs/specification/network/resource-manager/Microsoft.Network/stable/2021-08-01/virtualNetworkGateway.json
+Network Watcher not using current file for azure-rest-api-specs/specification/network/resource-manager/Microsoft.Network/stable/2021-08-01/networkWatcher.json
+Notification Hubs not using current file for azure-rest-api-specs/specification/notificationhubs/resource-manager/Microsoft.NotificationHubs/stable/2016-03-01/notificationhubs.json
+Azure NetApp Files not using current file for azure-rest-api-specs/specification/netapp/resource-manager/Microsoft.NetApp/stable/2021-10-01/netapp.json
+Policy not using current file for azure-rest-api-specs/specification/policyinsights/resource-manager/Microsoft.PolicyInsights/stable/2020-07-01/checkPolicyRestrictions.json
+PostgreSQL not using current files for specification/postgresql/resource-manager/Microsoft.DBforPostgreSQL/[version]/postgresql.json
+Peering not using current file for azure-rest-api-specs/specification/peering/resource-manager/Microsoft.Peering/stable/2021-01-01/peering.json
+Recovery Services - Backup not using current files for specification/recoveryservicesbackup/resource-manager/Microsoft.RecoveryServices/[version]/bms.json
+Synapse not using current file for azure-rest-api-specs/specification/synapse/resource-manager/Microsoft.Synapse/preview/2021-06-01-preview/bigDataPool.json
+Recovery Services - Site Recovery not using current file for azure-rest-api-specs/specification/recoveryservicessiterecovery/resource-manager/Microsoft.RecoveryServices/stable/2021-08-01/service.json
+Redis Cache not using current file for azure-rest-api-specs/specification/redisenterprise/resource-manager/Microsoft.Cache/stable/2021-03-01/redisenterprise.json
+Reserved VM Instances not using current file for azure-rest-api-specs/specification/reservations/resource-manager/Microsoft.Capacity/preview/2019-04-01/reservations.json
+Resource Health not using current file for azure-rest-api-specs/specification/resourcehealth/resource-manager/Microsoft.ResourceHealth/stable/2018-07-01/resourcehealth.json
+Resource Management not using current file for azure-rest-api-specs/specification/resources/resource-manager/Microsoft.Authorization/stable/2016-09-01/locks.json
+Management Groups not using current file for azure-rest-api-specs/specification/managementgroups/resource-manager/Microsoft.Management/stable/2020-05-01/management.json
+Communication not using current files for specification/communication/data-plane/Identity/[version]/CommunicationIdentity.json
+Storagecache not using current file for azure-rest-api-specs/specification/storagecache/resource-manager/Microsoft.StorageCache/stable/2022-01-01/storagecache.json
+Security Center not using current file for azure-rest-api-specs/specification/security/resource-manager/Microsoft.Security/preview/2017-08-01-preview/advancedThreatProtectionSettings.json
+Service Fabric not using current file for azure-rest-api-specs/specification/servicefabric/resource-manager/Microsoft.ServiceFabric/preview/2019-11-01-preview/application.json
+SignalR Service not using current file for azure-rest-api-specs/specification/signalr/resource-manager/Microsoft.SignalRService/preview/2021-09-01-preview/signalr.json
+SQL Database not using current file for azure-rest-api-specs/specification/sql/resource-manager/Microsoft.Sql/preview/2019-06-01-preview/servers.json
+Service Connector not using current file for azure-rest-api-specs/specification/servicelinker/resource-manager/Microsoft.ServiceLinker/preview/2021-11-01-preview/servicelinker.json
+Traffic Manager not using current file for azure-rest-api-specs/specification/trafficmanager/resource-manager/Microsoft.Network/stable/2018-04-01/trafficmanager.json
+Virtual Networks not using current file for azure-rest-api-specs/specification/network/resource-manager/Microsoft.Network/stable/2021-08-01/network.json
+Virtual WAN not using current file for azure-rest-api-specs/specification/network/resource-manager/Microsoft.Network/stable/2021-08-01/virtualWan.json
+SQL VM not using current files for specification/sqlvirtualmachine/resource-manager/Microsoft.SqlVirtualMachine/[version]/sqlvm.json
+Red Hat OpenShift not using current file for azure-rest-api-specs/specification/redhatopenshift/resource-manager/Microsoft.RedHatOpenShift/stable/2020-04-30/redhatopenshift.json
+Networking Operations not using current file for azure-rest-api-specs/specification/network/resource-manager/Microsoft.Network/stable/2021-08-01/operation.json
+Network Manager not using current file for azure-rest-api-specs/specification/network/resource-manager/Microsoft.Network/preview/2021-02-01-preview/network.json
