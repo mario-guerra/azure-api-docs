@@ -1,0 +1,9 @@
+extends:
+  - [../../Azure/azure-api-style-guide/spectral.yaml, off]
+  - [../../Azure/azure-api-style-guide/alt-rules.yaml, off]
+rules:
+  oas2-valid-media-example: off
+  oas2-valid-schema-example: off
+  az-response-body-type: off
+
+  alt-nextlink-readonly: error
